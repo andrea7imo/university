@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/andrea/CLionProjects/SpuntoDiRiflessione2/Buffer.h
+
+/Users/andrea/CLionProjects/SpuntoDiRiflessione2/main.cpp
+iostream
+-
+Buffer.h
+/Users/andrea/CLionProjects/SpuntoDiRiflessione2/Buffer.h
+
